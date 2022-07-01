@@ -1,0 +1,17 @@
+{
+  "name": "SlashBot",
+  "version": "1.0.0",
+  "description": "Бот просто показывает создание слеш-команд, в этом нет ничего сложного.",
+  "main": "index.js",
+  "author": "Alexcitten",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security"
+  }
+}
